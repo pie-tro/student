@@ -6,5 +6,4 @@ import br.gov.sp.fatec.itu.student.entities.Student;
 
 public interface StudentRepository extends JpaRepository<Student, Long>{
 
-    
 }
